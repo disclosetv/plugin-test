@@ -4,5 +4,5 @@
 # authors: Reiner Braun
 
 after_initialize do
-	Rails.logger.warn "Test-Plugin initialized!!!"
+	Rails.logger.warn("Test-Plugin initialized!!!")
 end
